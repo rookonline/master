@@ -31,7 +31,7 @@
 
 <a href="http://www.ebay.co.uk/usr/rookonline">
 
-<img border="0" alt="ebay" src="images/ebay.png" width="60" height="60"></a>
+<img border="0" alt="ebay" src="images/ebay.png" width="120" height="60"></a>
 
 
 
