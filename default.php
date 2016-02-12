@@ -26,6 +26,24 @@
 <a href="http://www.twitter.com/rook_online">
 
 <img border="0" alt="twitter" src="images/twitter.png" width="60" height="60"></a>
+
+
+
+<a href="http://www.ebay.co.uk/usr/rookonline">
+
+<img border="0" alt="ebay" src="images/ebay.png" width="60" height="60"></a>
+
+
+
+
+
+
+
+
+
+
+
+
 </br></br></br>
 <footer>
  <p>Rook LTD</p>
